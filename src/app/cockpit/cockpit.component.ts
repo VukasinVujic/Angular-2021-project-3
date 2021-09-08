@@ -1,5 +1,4 @@
 import { Component, OnInit, EventEmitter, Output } from '@angular/core';
-// import { EventEmitter } from 'stream';
 
 @Component({
   selector: 'app-cockpit',
